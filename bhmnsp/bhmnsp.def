@@ -1,0 +1,5 @@
+LIBRARY BHMNsp
+
+EXPORTS
+        NSPStartup
+		SetHWnd

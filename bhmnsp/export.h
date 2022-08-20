@@ -1,0 +1,1 @@
+void SetHWnd(HWND hWnd);
